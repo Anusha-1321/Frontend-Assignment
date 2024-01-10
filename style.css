@@ -1,0 +1,146 @@
+body
+{
+    background-color: #FAFAFA;
+}
+.container
+{
+    width: 1560px;
+    height: 720px;
+    margin:100px;
+    /*position:fixed;*/
+    display:flex;
+    border: 1px solid #ADADAD;;
+    
+}
+.div1
+{
+    /*float:left;*/
+    margin:100px;
+    /*border: 2px solid black;*/
+}
+.hero-image
+{
+    border: 20px solid white;
+    border-radius: 50%;
+    height: 450px;
+    width: 450px;
+}
+
+/*
+.company
+{
+    border: 2px solid black;
+    width: 300px;
+    height: 100px;
+    
+}
+*/
+.div2
+{
+    margin-right:100px;
+    margin-top:100px;
+    margin-bottom:100px;
+    /*border: 2px solid black;*/
+}
+.div2d1
+{
+    width: 300px;
+    height: 70px;
+    display:flex;
+    align-items:baseline;
+    /*border: 5px solid black; */
+    color: #3E3E3E;
+    /*margin-top: 100px;*/
+}
+.favicon
+{
+    /*float: left;*/
+    width: 300px;
+    height: 70px;
+    /*margin:10px;
+    border: 2px solid black; */
+}
+/*
+.company-p
+{
+    margin:10px;
+    font: bold 40px Georgia, serif;
+    border: 2px solid black; 
+}
+*/
+.div2d2
+{
+    font: bold 40px Georgia, serif;
+    /*border: 5px solid black; */
+    color: #3E3E3E;
+   
+}
+p
+{
+    margin: 0px;
+}
+.d2span
+{
+    font: 900 40px Georgia, serif;
+    color:red;
+}
+
+.div2d3
+{
+    margin-top:20px;
+    /*border: 5px solid black; */
+}
+.d3p1
+{
+    font: normal normal normal 25px/33px Roboto;
+    /*font: 20px Georgia, serif;*/
+    /*border: 2px solid black; */
+    color: #3E3E3E;
+   
+}
+input
+{
+    width: 429px;
+    height: 49px;
+    border: 1px solid #ADADAD;
+    border-radius: 5px;
+}
+.form-div
+{
+    display: flex;
+    align-items: baseline;
+}
+.button
+{
+    width: 138px;
+    height: 45px;
+    border-radius: 23px;
+    background-color: #C8242F;
+    color: #FFFFFF;
+    margin-right:400px;
+    
+}
+.a1
+{
+    text-decoration: none;
+    color: #ADADAD;
+}
+.a2
+{
+    text-decoration: none;
+    color:red;
+}
+/*
+.d3p2
+{
+    position:relative;
+    
+   
+}
+*/
+.d3p3
+{
+    margin-top:20px;
+    color: #ADADAD;
+}
+
