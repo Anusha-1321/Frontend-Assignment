@@ -4,7 +4,7 @@
 }
 .leftdiv
 {
-    border:2px solid black;
+    /* border:2px solid black; */
 }
 /* .rightdiv
 {
@@ -12,11 +12,11 @@
 } */
 .logo
 {
-    margin:20px;
+    margin:17px;
 }
 .nav
 {
-    border:2px solid black;
+    /* border:2px solid black; */
     width: 1560px;
     height: 80px;
 }
@@ -96,10 +96,10 @@ height: 21px;
 .profile
 {
     display:flex;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     width:200px;
     align-items:center;
-    margin: 0 1250px;
+    /* margin: 0 1250px; */
 }
 .pimg1 img
 {
@@ -126,23 +126,27 @@ height: 21px;
 
 .list
 {
-    border: 2px solid black;
+    /* border: 2px solid black; */
+    margin: 30px 20px;
 }
 .ul 
 {
     list-style: none;
     width: 235px;
-    height: 1279px;
-    margin:20px;
+    height: 500px;
+    /* margin:20px; */
+    /* margin-bottom: 50px;; */
 }
 a
 {
     text-decoration: none;
     font: 15px Arial, sans-serif;
+    
 }
 .ul li
 {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
+    color: #3E3E3E;
 }
 .ul li img
 {
@@ -152,32 +156,34 @@ a
 
 .main
 {
-    border: 2px solid black;
+    /* border: 2px solid black; */
     /* margin-top: 70px;
     margin-left: 250px; */
     height:90vh;
     width: 85vw;
-    background-color: #FAFAFA;
+    background-color:#FAFAFA;
     
 }
 h1
 {
-    margin:30px;
+    margin-top: 150px;
+    margin-left: 30px;
 }
 .total
 {
     margin:30px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     display:flex;
     justify-content: space-between;
 }
 .total1
 {
-    border: 5px solid black;
+    /* border: 5px solid black; */
     width: 219px;
     height: 116px;
     display:flex;
     align-items: center;
+    background-color: white;
 }
 .img
 {
@@ -201,52 +207,55 @@ span
 }
 .total2
 {
-    border: 5px solid black;
+    /* border: 5px solid black; */
     width: 219px;
     height: 116px;
     display:flex;
     align-items: center;
-    background-color: #FAFAFA;
+    background-color: white;
 }
 .total3
 {
-    border: 5px solid black;
+    /* border: 5px solid black; */
     width: 219px;
     height: 116px;
     display:flex;
     align-items: center;
+    background-color: white;
 }
 .total4
 {
-    border: 5px solid black;
+    /* border: 5px solid black; */
     width: 219px;
     height: 116px;
     display:flex;
     align-items: center;
+    background-color: white;
 }
 .total5
 {
-    border: 5px solid black;
+    /* border: 5px solid black; */
     width: 219px;
     height: 116px;
     display:flex;
     align-items: center;
+    background-color: white;
 }
 
 .line
 {
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 .pie
 {
-    border: 2px solid black;
+    /* border: 2px solid black; */
     
 }
 .sales
 {
     margin: 20px;
     display:flex;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 .stext
 {
@@ -272,10 +281,13 @@ span
 }
 .main
 {
-    border:2px solid green;
+    /* border:2px solid green; */
 }
-.tab{
+.tab
+{
     margin: 10px ;
+    background-color: white;
+    width:1550px;
 }
 .tabhead
 {
@@ -288,18 +300,18 @@ span
     margin-top: 50px;
     margin-left: 125px;
     width: 385px;
-    height: 298px;
-    border:2px solid green;
+    height: 250px;
+    /* border:2px solid green; */
 }
-.red
+/* .red
 {
     background-color: red;
     height: 15px;  
     width: 15px; 
-    /* border: 1px solid black;   */
+     border: 1px solid black;   
     border-radius: 50%;  
     
-}
+} */
 span
 {
     font-size: 15px;
